@@ -13,7 +13,6 @@
         <li><a href = "4.html">Javascript</a></li>
     </ol>
     <h2>HTML이란 무엇인가?</h2>
-
     1. HTML <br>
     2. CSS <br>
     3. Javascript <br>
