@@ -20,6 +20,6 @@
     Hypertext Markup Language(HTML) is the standard Markup <a href = "https://www.naver.com/" title = naver target="_blank">language</a> 
     for <strong>creating <u>web</u> pages</strong> and web applications.
 
-    <p style="margin-top:40px;">To force<br> line breaks<br> in a text,<br><br> use the br<br> element.</p>
+<p style="margin-top:40px;">To force<br> line breaks<br> in a text,<br><br> use the br<br> element.</p>
     <img src="image/22.png" width ="10%">
 </body>
